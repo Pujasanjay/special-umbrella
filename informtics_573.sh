@@ -1,10 +1,8 @@
 #!/bin/bash
-# ---------------------------------------------------
 # Script: informtics_573.sh
 # Author: Puja
 # Purpose: Download and process UCSC chromosome 1 secondary assemblies
 # Date: 2025-09-12
-# ---------------------------------------------------
 
 # Navigate to the user's home directory
 cd ~
