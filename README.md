@@ -3,7 +3,7 @@ Informatics_573 Shell Script
 - Programmer: Puja Sanjay Thorat  
 - Language: Bash shell script (.sh)
 - Script filename: `informtics_573.sh`  
-- Version: Linus enterprise server 15SP3 
+- Version: Linux enterprise server 15SP3 
 - Date submitted: 13 September 2025  
 - Purpose: This shell script automates the process of downloading, unzipping, and summarizing human chromosome 1 secondary assemblies (excluding chr1.fa.gz) from the UCSC Genome Browser. It also generates a summary file containing file details, first 10 lines, and total line count for each assembly. The script is fully independent and can run on any Bash-compatible system. 
 
