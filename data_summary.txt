@@ -1,26 +1,64 @@
-File details:
-total 513K
--rw-rw-r-- 1 puthora puthora 175K Jan 23  2014 chr1_KI270706v1_random.fa
--rw-rw-r-- 1 puthora puthora  56K Jan 23  2014 chr1_KI270706v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora  32K Jan 23  2014 chr1_KI270707v1_random.fa
--rw-rw-r-- 1 puthora puthora  10K Jan 23  2014 chr1_KI270707v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora 128K Jan 23  2014 chr1_KI270708v1_random.fa
--rw-rw-r-- 1 puthora puthora  39K Jan 23  2014 chr1_KI270708v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora  67K Jan 23  2014 chr1_KI270709v1_random.fa
--rw-rw-r-- 1 puthora puthora  19K Jan 23  2014 chr1_KI270709v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora  41K Jan 23  2014 chr1_KI270710v1_random.fa
--rw-rw-r-- 1 puthora puthora  14K Jan 23  2014 chr1_KI270710v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora  43K Jan 23  2014 chr1_KI270711v1_random.fa
--rw-rw-r-- 1 puthora puthora  14K Jan 23  2014 chr1_KI270711v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora 176K Jan 23  2014 chr1_KI270712v1_random.fa
--rw-rw-r-- 1 puthora puthora  55K Jan 23  2014 chr1_KI270712v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora  41K Jan 23  2014 chr1_KI270713v1_random.fa
--rw-rw-r-- 1 puthora puthora  14K Jan 23  2014 chr1_KI270713v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora  42K Jan 23  2014 chr1_KI270714v1_random.fa
--rw-rw-r-- 1 puthora puthora  14K Jan 23  2014 chr1_KI270714v1_random.fa.gz
--rw-rw-r-- 1 puthora puthora   14 Sep 12 15:32 data_summary.txt
+=== File Details ===
+-rw-rw-r-- 1 puthora puthora 182K 2014-01-23 19:40 chr1_GL383518v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 110K 2014-01-23 19:40 chr1_GL383519v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 366K 2014-01-23 19:40 chr1_GL383520v2_alt.fa
+-rw-rw-r-- 1 puthora puthora 175K 2014-01-23 19:39 chr1_KI270706v1_random.fa
+-rw-rw-r-- 1 puthora puthora  32K 2014-01-23 19:39 chr1_KI270707v1_random.fa
+-rw-rw-r-- 1 puthora puthora 128K 2014-01-23 19:39 chr1_KI270708v1_random.fa
+-rw-rw-r-- 1 puthora puthora  67K 2014-01-23 19:39 chr1_KI270709v1_random.fa
+-rw-rw-r-- 1 puthora puthora  41K 2014-01-23 19:39 chr1_KI270710v1_random.fa
+-rw-rw-r-- 1 puthora puthora  43K 2014-01-23 19:39 chr1_KI270711v1_random.fa
+-rw-rw-r-- 1 puthora puthora 176K 2014-01-23 19:39 chr1_KI270712v1_random.fa
+-rw-rw-r-- 1 puthora puthora  41K 2014-01-23 19:39 chr1_KI270713v1_random.fa
+-rw-rw-r-- 1 puthora puthora  42K 2014-01-23 19:39 chr1_KI270714v1_random.fa
+-rw-rw-r-- 1 puthora puthora 424K 2014-01-23 19:40 chr1_KI270759v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 110K 2014-01-23 19:40 chr1_KI270760v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 166K 2014-01-23 19:40 chr1_KI270761v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 354K 2014-01-23 19:40 chr1_KI270762v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 909K 2014-01-23 19:40 chr1_KI270763v1_alt.fa
+-rw-rw-r-- 1 puthora puthora  51K 2014-01-23 19:40 chr1_KI270764v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 185K 2014-01-23 19:40 chr1_KI270765v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 256K 2014-01-23 19:40 chr1_KI270766v1_alt.fa
+-rw-rw-r-- 1 puthora puthora 162K 2014-01-23 19:40 chr1_KI270892v1_alt.fa
+-rw-rw-r-- 1 puthora puthora  573 2025-09-13 23:55 chr1_list.txt
 
-First 10 lines of each assembly:
+=== First 10 Lines of Each Assembly ===
+
+--- chr1_GL383518v1_alt.fa ---
+>chr1_GL383518v1_alt
+ctataatcccagcttgttgggaggccaaggcaggaggatcacttgaagcc
+caggagtttgagacgagcctaagcaacatagcaagaccctatctctacaa
+TTATAAATATAGTATTTGTTAATATTTGgccaggcgtggtagtacatgcc
+tgtaggcccagctacttggggagaggaggcaggaggatcacttgagggcc
+gaagttctgggctgtagtgcactatgcaatcaggtgtccccaccacattg
+ggcataaatctggtgatttcctgggagaaggagaccaccaggttgcctta
+taaggggtaaactggcccacatcgaaaacagagtaggtcaacatttccat
+gctaatcagtaatgggatccagcctatgaataaccactgcactccagctc
+gggcaatacagcaagaccctgAAtttttttttttttttttttttgagaca
+
+--- chr1_GL383519v1_alt.fa ---
+>chr1_GL383519v1_alt
+CATCCCTCGATCCCAGGAGCCTAGCCGCACACTCTGCTCCCAGAACTTGG
+AACCCACACAGGCCTCTGAGGCAAAGAGCATGGTGTTGGGGAACAGGTGG
+TGTGTCTCCCTTAGGGTGGCTTTGGCTGGAGCCAGAAAGTCCAGGTACCA
+ATGTACAGCAATACCATGAACATACTTAGCTGCTTCTGGGTCTGTCAGTA
+CCTGCAAAGGAAGAACAAGTCACCCTGGACCCTGCCCACAGGCTTCTGGA
+ACTTCTAGTTCCTCTTGTAGGAATCCTGAATTAGGTGGTGGGAAGAATGC
+AACTACAGAGGTTTTGGGAGGGAttttttgtttttgtttttgagacaggg
+tctccctctgtcacacaggctggagtacagtggcacaatcatagctcact
+gcagcctgaaattctaggctcaactaaacctcccgccttagcctccagaa
+
+--- chr1_GL383520v2_alt.fa ---
+>chr1_GL383520v2_alt
+CATGAAGGAGTAAGGTGTGTAGTAAATAAATCATAGACTGTTAATTCTGA
+GGGTAAACAACTTTTACATAAACTGATCATTTGTTTAAAAAGTCCAACTC
+AAGAGTAGTTCATTGCTTTTCAATATTTTCACTGATCAGTAACAAAATTA
+TCTGTGGCATAATCAGTAATAATTACTGATGGACCAAAGACCACCCACCC
+AATGAATCTTATTATCTCAAATATTTTGGCAGTTTCATTCTCAGTGATTT
+TATGATTTCTTGGAATTTTTTCCTTCAAGTTACAAATGTGTTTTGTTTCC
+TTCTATTTTCAATTTTTATTAATTTTGGTATAGAACATTAATTTCCATAT
+AAAAATGTAGAATTTTTCTGAATTCCACAGTTAATTTCTCAGGAGGAAGG
+AAACTGTTAACATAAGGTTAACCAATAATCATTTCTACACCTGACAAACT
 
 --- chr1_KI270706v1_random.fa ---
 >chr1_KI270706v1_random
@@ -130,13 +168,146 @@ cgcaattagtataattgtattttaattaaatggagaggttgaagattttt
 taaatatcaaattctgtagataaaaactatgatttacagtgtgaaatgga
 agaaggcactggattaaatattgcagaagagaagattattaaactagaag
 
-Total number of lines in each assembly:
-chr1_KI270706v1_random.fa : 3503 lines
-chr1_KI270707v1_random.fa : 642 lines
-chr1_KI270708v1_random.fa : 2555 lines
-chr1_KI270709v1_random.fa : 1339 lines
-chr1_KI270710v1_random.fa : 805 lines
-chr1_KI270711v1_random.fa : 846 lines
-chr1_KI270712v1_random.fa : 3522 lines
-chr1_KI270713v1_random.fa : 816 lines
-chr1_KI270714v1_random.fa : 836 lines
+--- chr1_KI270759v1_alt.fa ---
+>chr1_KI270759v1_alt
+gggaggccgaggcaggtggatcacgaggtcaggagatcgagaccatcctg
+gctaacatggtgaaaccccgtctctactaaaaatacaaaaaattagccgg
+gtgtggtggcgggcgcctgtagtcccagctactcgggagactgaggcaga
+agaatggcttgaacccggtaggcagagctttagtgagccgagatcgcacc
+actgcactccagcctgggtgacagagcgagacgactcctcaaaaaaaaaa
+aaaaaaaaaaagaaaagaaaatgtgaaacgatatagcccctgtggaagag
+aacttggcactttctcagagagttaaacacaatgttatcatatgacccaa
+caattctacccttgttatgaaaaaacatgtatccacaaaaccttgtacat
+gaatgtttatagcaacattattcataatagcccccaaatagaaacaaccc
+
+--- chr1_KI270760v1_alt.fa ---
+>chr1_KI270760v1_alt
+ccagccagaataccacatgcatttagctgttctgtctccttaggctcctc
+ttgactgtaacagtttctttgatcaccttgacagttttgaggactgcttg
+tcaagtacatagttggatggccctcttggagtttttctgatgtttttctc
+atcagttagactggaggctaggtttgaaggaagaagatcacggatgtaaa
+gttccactcacatcatatcaaggctacagactatcaacatgattgatgat
+tattgatgctgaccttagtctcctggctgaagtcatgtttctcaggtttc
+tccactgtaaagttactcttttgctcctcttttccatactgtagtctctg
+gaaggaagtcattatgagtagtccacatttaaggagtggggagttatgct
+ccatcgttgaggggaagagtatctacataaattattgggaattcttcttt
+
+--- chr1_KI270761v1_alt.fa ---
+>chr1_KI270761v1_alt
+CACTGTGAGTCCAACATGGTTCTCCAAACTTACACATTATCTCATCAACC
+TACACAGTGGCACTTTGTTAGAATAATCATCTTTAGCATGTATATGAGAA
+ACAGGAGGCAATAGGAATAAATTTGTTAGAAGTTGAATAAAACCAAAATT
+TAATTTTACTCCAAATCTCCTTCTTTAGAGAATGCAATTTATTGGTTACA
+TCCTGAAatatatatatatacacacacatcttatatatgcaaaatattat
+gcataacattacatatataactatattgcatatgtttatatacatattta
+catactctatatttacatatgtaatatgtatatgtagatatatgtaatat
+ttatgtatttaagtacttacatatataaatatgtgcaaatacatattagg
+tattacatatataggatgtatatatattatatCACAGAATGAAACCAATA
+
+--- chr1_KI270762v1_alt.fa ---
+>chr1_KI270762v1_alt
+GTACTGGAGGCCTGGACGGGCCTCACTCCATTCTTAGGGAGCGGCTGCTC
+CTGGTTCCCAACCACAAGTCACATCACTGCTGCCCCGGAAGGCACCTGGG
+GCCTCCAGAATGCTCGTTTCGTCAAACTGTTGTACGTGGCTCCTTTGCTG
+GCGCGGGGAAAGGGCCGTGGGCTTGGGCCCTGGAACGCATCCCAGGATCA
+GTGGCTCTGCAGGCTCCAGGCCCCACCAGCTGCTCTGAGGAGGCTCAGAT
+GGGTCTGGGAGTCCTGGTCGGAGCTGTAGCAGCTTCACATCCCCCTGGAC
+GGAGGAAAATGCAGATTCAGCACCCCCACCCCCCGCCCCCCACCACCCAG
+AGGTTGGAGCTATTTCAGTAGAAATACATGTTTTAAACTGGGGCGTCTgg
+ccagccacggtggctcatgcctgtaatcccagcactttgggaggctgagg
+
+--- chr1_KI270763v1_alt.fa ---
+>chr1_KI270763v1_alt
+ccaggctggagtgtagtggtggcactatcacagctcactgcagcctcgat
+ctcgtaggctcaagggatcctcctgcctcagcctctcatgtagctgggac
+ctgactagctggccagccatatcccgctaatatttatttagttagttagt
+tagttagttagttagttagttagttaggaagagacaggtctccccatgtt
+ggccaggctggtctcaaactcctgagatcaaatgatcctctcacctcatc
+ctcacaaagtgctgggattacaggccagagccacagcaactggccTTGTT
+TAGTTTCAGTGAATAAAATTGCCTTTTGAGGGAGCTACAGAGGCAATATA
+GCAGCTTGGAATCCAGGAAGCTTCCTTGGTCTTGTGTTTCTAAGGGTCCC
+AGGCATATTATAAGCAACTGCTCCTGATGGAGGCGCtagtgtatgaagag
+
+--- chr1_KI270764v1_alt.fa ---
+>chr1_KI270764v1_alt
+CAgagtgagtgagtgagtgagtgagAGTGTAAACAGGTGACTCCAGCCCA
+GTGTGTTCAGTGATGGAGGGAGAAGGGCAAGGAAAACAAATGGTGAGTGA
+GAGGGCCCAGCTTGCCATGCCTGAGGGAACTGCAGACTGGGGCTGCTATG
+CCTGTCCATTTGATATGAAACACTTCCCTCTTGATAGACTTCCAAGAGCA
+AATGCTTTCTGTAGAGAAGAACATGCACCCAACAGATGGATGTTTCAGTG
+CCCATCAAACAGCCTTATTTTTAAACTCATAGACTAAGTTTGGCAAAGCT
+CTTTCTCTCTCTCCAGAGCTACCCTGTGAACCTGACTTTGATTCTCTTCC
+AGATCTGCCATGCCCTCCTCCTACGGGGTTTCCCCTTTTGCTGCACCTCT
+CTCTGAGAAACATTTCACTTCTCTTTGCTCAGTGCCGAGGAGTGAAAGAA
+
+--- chr1_KI270765v1_alt.fa ---
+>chr1_KI270765v1_alt
+CTGAACTCTCAATCACATTTAGCGAGACGCTTTTCTAAAGGAATCCTCTA
+AAGCTAAACATACATTAAATTAAGTAGAATGCATTATGATTTGCTGTGtt
+ttttttttttttattttttttgagacggaggttttttttttttttttttt
+ttttttggctctgttgcccaggctgaagtgcagtggctcgatctcgtctc
+actgcgacctccgcctcccatccgcctgcctcagcctcccaaagtgctag
+gattacaggcgtgagccaccgcgtccagcCTGCAGTGGTTTTCTTACTAC
+TTTTTACAATCAAATTGATTAAGGCATTGGTTGAATATGGTACACTGCAT
+CCATTTCAAGTTTGATGacatgtctactactccagaaggtcctcttgtgc
+cctttgcagtcagtcccctcgactccctgaccccagcaattaatgatgta
+
+--- chr1_KI270766v1_alt.fa ---
+>chr1_KI270766v1_alt
+GAATTCACTCCTGGTCCAATGAAGCCATTTCCTGGCATGGCCAAAGATCA
+GGAACGGATTCCTCTGGATCTGTCCATTAGGAGTGAGCAGGGTCTCAGTA
+TCTGGGGAGCAGTGAGGGCCCCTGAGAAGAGGGTAGGTTTCAGTGGCTCA
+TCATCACTGCCCACACAGAATGTTCCAGGCCCCAAGTGTGCATCCTTTGT
+GAATGAACCCAGTGAACAGGCATGGGAGAAATTAAGGAAGAAACAGATGA
+CTGAAAGGAAGCAAAAAATGAGTGAGAACTAATCAAAATGATCACATTTC
+AGTTTTGATGCCTTGATTTGCTGCAGCTGAACCTCAATCACAGATGACGT
+AGTACCTCTCATCAGTAACTAGAGATTTCTGATATATAAATGGCTAAAAC
+AGGTTGATCAATCATGGAAGACACCAGAAAGTTTCCATTCAGGTTCCATT
+
+--- chr1_KI270892v1_alt.fa ---
+>chr1_KI270892v1_alt
+CACTGTGAGTCCAACATGGTTCTCCAAACTTACACATTATCTCATCAACC
+TACACAGTGGCACTTTGTTAGAATAATCATCTTTAGCATGTATATGAGAA
+ACAGGAGGCAATAGGAATAAATTTGTTAGAAGTTGAATAAAACCAAAATT
+TAATTTTACTCCAAATCTCCTTCTTTAGAGAATGCAATTTATTGGTTACA
+TCCTGAAatatatatatatacacacacatcttatatatgcaaaatattat
+gcataacattacatatataactatattgcatatgtttatatacatattta
+catactctatatttacatatgtaatatgtatatgtagatatatgtaatat
+ttatgtatttaagtacttacatatataaatatgtgcaaatacatattagg
+tattacatatataggatgtatatatattatatCACAGAATGAAACCAATA
+
+--- chr1_list.txt ---
+chr1_GL383518v1_alt.fa.gz
+chr1_GL383519v1_alt.fa.gz
+chr1_GL383520v2_alt.fa.gz
+chr1_KI270706v1_random.fa.gz
+chr1_KI270707v1_random.fa.gz
+chr1_KI270708v1_random.fa.gz
+chr1_KI270709v1_random.fa.gz
+chr1_KI270710v1_random.fa.gz
+chr1_KI270711v1_random.fa.gz
+chr1_KI270712v1_random.fa.gz
+
+=== Line Counts ===
+chr1_GL383518v1_alt.fa: 3650 lines
+chr1_GL383519v1_alt.fa: 2207 lines
+chr1_GL383520v2_alt.fa: 7333 lines
+chr1_KI270706v1_random.fa: 3503 lines
+chr1_KI270707v1_random.fa: 642 lines
+chr1_KI270708v1_random.fa: 2555 lines
+chr1_KI270709v1_random.fa: 1339 lines
+chr1_KI270710v1_random.fa: 805 lines
+chr1_KI270711v1_random.fa: 846 lines
+chr1_KI270712v1_random.fa: 3522 lines
+chr1_KI270713v1_random.fa: 816 lines
+chr1_KI270714v1_random.fa: 836 lines
+chr1_KI270759v1_alt.fa: 8514 lines
+chr1_KI270760v1_alt.fa: 2192 lines
+chr1_KI270761v1_alt.fa: 3318 lines
+chr1_KI270762v1_alt.fa: 7090 lines
+chr1_KI270763v1_alt.fa: 18235 lines
+chr1_KI270764v1_alt.fa: 1007 lines
+chr1_KI270765v1_alt.fa: 3707 lines
+chr1_KI270766v1_alt.fa: 5127 lines
+chr1_KI270892v1_alt.fa: 3246 lines
+chr1_list.txt: 21 lines
