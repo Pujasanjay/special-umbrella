@@ -3,7 +3,7 @@
 # Author: Puja Sanjay Thorat
 # Purpose: Download and process UCSC chromosome 1 secondary assemblies
 # version: SUSE Linux Enterprise Server (SLES) 15 SP3
-# Date: 2025-09-13
+# Date: 2025-09-14
 
 # Navigate to the user's home directory
 cd ~
